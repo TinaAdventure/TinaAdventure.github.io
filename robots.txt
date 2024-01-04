@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tinaadventure.github.io/sitemap.xml
+Sitemap: https://TinaAdventure.github.io/sitemap.xml
